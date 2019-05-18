@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865305235499",
+    "firebase_url": "https://orbis-team1.firebaseio.com",
+    "project_id": "orbis-team1",
+    "storage_bucket": "orbis-team1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865305235499:android:4134c31fe4ed8ce9",
+        "android_client_info": {
+          "package_name": "orbis.project.team.orbisnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865305235499-nc9g2dgriqjcqoeh6lg049af3r4h31bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "orbis.project.team.orbisnew",
+            "certificate_hash": "9ccddc60544c52c28b8fe2e59d76edb8fe4b7004"
+          }
+        },
+        {
+          "client_id": "865305235499-2oc078ibgqg9ddc7v17kurcp6a3hng3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0TVeXL03-18T6dZUdq8FXYkxLCtRM_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865305235499-2oc078ibgqg9ddc7v17kurcp6a3hng3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

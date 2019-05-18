@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name" translatable="false">Orbis</string>
+
+    <!-- Strings relatedLoginActivityogin -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_skip_sign_in">Skip</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">Please provide an email address</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main_screen">MainScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="navigate_events">Events</string>
+    <string name="navigate_route">Route</string>
+    <string name="navigate_quick">Quick</string>
+    <string name="navigate_changemap">Change Map</string>
+    <string name="navigate_settings">Settings</string>
+    <string name="navigate_logout">Logout</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="creating_account">Creating account</string>
+    <string name="error_login">Whoops! Something went wrong :( Check you\'re connected to the internet, and try again later</string>
+    <string name="empty_password">orbisUser123!</string>
+    <string name="map_choice">Map Choice</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="anonymous_user">Anonymous User</string>
+
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_font_size">Font Size</string>
+    <string name="settings_brightness">Brightness</string>
+    <string name="settings_accessibility">Accessibility</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="logout_home_shortcut">Logout</string>
+    <string name="change_map_home_shortcut">Change map</string>
+    <string name="settings_home_shortcut">Settings</string>
+    <string name="signin_home_shortcut">Sign in</string>
+    <string name="login_action_home_shortcut">login</string>
+    <string name="logout_action">logout</string>
+    <string name="change_map_action_home_shortcut">map_change</string>
+    <string name="settings_action_home_shortcut">settings</string>
+
+    <string name="title_activity_verify_email">VerifyEmailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="validate_email_header">Safety Check!</string>
+    <string name="validate_email">We\'ve sent an email to your email address to prove you\'re you.\n\nPlease click the link in the email when you\'ve got it.\n\nBe sure to check your junk folder too.</string>
+    <string name="resend_email">Resend Email</string>
+    <string name="email_verification_sent">Email verification sent</string>
+    <string name="set_map_choice">set</string>
+    <string name="update_map_choice">update</string>
+    <string name="app_secret">4ab88f2b-3f44-4d47-91f5-6f0617ea8059</string>
+    <string name="home_screen_shortcut_sign_in_id">sign_in</string>
+    <string name="home_screen_shortcut_logout_id">log_out</string>
+    <string name="home_screen_shortcut_change_map_id">change_map</string>
+    <string name="home_screen_shortcut_settings_id">settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Accessibility settings -->
+    <string name="pref_accessibility_general">Accessibility</string>
+
+    <string name="pref_title_lifts">Use lifts</string>
+    <string name="pref_description_lifts">Enable this setting to use the lifts instead of the stairs when appropriate</string>
+
+    <string name="shared_preferences_name">orbis.project.team.orbisnew_preferences</string>
+
+    <string name="google_maps_api_key">AIzaSyAv0TVeXL03-18T6dZUdq8FXYkxLCtRM_k</string>
+    <string name="building_key_shared_pref">building</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="use_lifts"
+        android:summary="@string/pref_description_lifts"
+        android:title="@string/pref_title_lifts" />
+</PreferenceScreen>
